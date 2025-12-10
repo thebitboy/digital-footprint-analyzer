@@ -1,0 +1,21 @@
+[
+    {
+        "query": "8bitboy114512@gmail.com",
+        "google_results": [
+            "https://example.com/search?q=8bitboy114512@gmail.com",
+            "https://socialmedia.com/8bitboy114512@gmail.com",
+            "https://pastebin.com/8bitboy114512@gmail.com"
+        ],
+        "possible_leaks": [
+            "Social media profile detected",
+            "Email found in leaks"
+        ],
+        "risk_score": 67,
+        "email_scan": {
+            "format_valid": true
+        },
+        "phone_scan": {},
+        "recommendation": "Enable 2FA, delete old accounts, and avoid sharing personal data online.",
+        "timestamp": "2025-12-10 20:49:55"
+    }
+]
